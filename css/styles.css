@@ -1,0 +1,11 @@
+body {
+  background-color: #fff2c6;
+  font-family: 'Krub', sans-serif;
+}
+img{
+    display: none;
+}
+.jumbotron{
+  background-color: #fdada9;
+  font-family: 'Spicy Rice', cursive;
+}
